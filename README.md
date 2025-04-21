@@ -113,10 +113,16 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 <details>
     <summary>Your SVG Code</summary>
-    <code>
-    ......
+    <code>This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<svg xmlns="https://www.w3.org/2000/svg" width="500" height="450">
+<line x1="20" y1="15" x2="400" y2="20" stroke="violet" stroke-width="4"/>
+<rect x="20" y="180" width="150" height="150" fill="blue"/>
+<circle cx="300" cy="300" r="30" fill="green"/>
+</svg>
     </code>
 </details>
+
+
 
 ### Task 2: Markdown
 You have already discovered _markdown_ in these `README.md` files. 
@@ -126,18 +132,24 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    ......
+    Mit # ist eine Überschrift beschrieben. Wenn mann Unterpunkte benötigt erweitert mann mit nem zweiten oder auch dritten #.
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    ......
+    Mann Kann die schrift verändern mit * vor und hinter dem Text.
+     Dabei gilt:
+         * ---> kursiv
+         **---> Dick geschrieben
+         ***--> beides
     </code>
 </details>
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    ......
+   Listen kann mann sortieren mit + und - wie eine Pro/Kontraliste.
+     Tabellen sind etwas aufwändiger mit Zahlen vor den Wörtern
+     und mit ----- begrenzt mann zum Title und mit | von Spalten 
     </code>
 </details>
 
