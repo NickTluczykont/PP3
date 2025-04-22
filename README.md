@@ -224,11 +224,11 @@ After it finishes, us `ls` to inspect the directory.
 
 <details>
     <summary>What changes in your pdf, if you change the documentclass to <code>book</code></summary>
-    ......
+    Titelseite und Kapitelstruktur wird verändert.
 </details>
 <details>
     <summary>What changes in your pdf, if you add <code>\section{Intro}</code> after <code>\maketitle</code></summary>
-    ......
+    Mann erstellt eine neue Überschrift in dem Fall Intro.
 </details>
 
 
