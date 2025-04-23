@@ -272,7 +272,7 @@ If you are running in WSL, make sure to install the `w3m` browser before by exec
 **Answer the following questions:**
 <details>
   <summary>What happens if you exchange the <code>&lt;p&gt;&lt;/p&gt;</code> for <code>&lt;h1&gt;&lt;/h1&gt;</code>?</summary>
-  ...
+  Wird getauscht, wird Hello World deutlich größer und fett geschrieben.
 </details>
 
 <details>
